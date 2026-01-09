@@ -1,4 +1,8 @@
 # Delphi-Core-Concepts
+Inno Setup Delphi software Code
+Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.
+https://github.com/jrsoftware/issrc/blob/main/Projects/Src/Compression.Zlib.pas
+
 # [Delphi-Core-Concepts](https://web.archive.org/web/20060305174604/http://www.pergolesi.demon.co.uk/prog/threads/ToC.html
 https://www.seti.net/engineering/threads/threads.php#Introduction.
 © Martin Harvey 2000. Multithreading - The Delphi Way.Version 1.0
